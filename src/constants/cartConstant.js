@@ -1,0 +1,18 @@
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const ADD_TO_CART_ERROR = 'ADD_TO_CART_ERROR'
+
+export const GET_CART = 'GET_CART'
+export const GET_CART_ERROR = 'GET_CART_ERROR'
+
+
+export const INCREASE = 'INCREASE'
+export const INCREASE_ERROR = 'INCREASE_ERROR'
+
+export const DECREASE= 'DECREASE'
+export const DECREASE_ERROR= 'DECREASE_ERROR'
+
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART'
+export const REMOVE_FROM_CART_ERROR = 'REMOVE_FROM_CART_ERROR'
+
+export const CLEAR_CART = 'CLEAR_CART'
+export const CLEAR_CART_ERROR= 'CLEAR_CART_ERROR'
